@@ -1,3 +1,6 @@
 [submodule "eb5e1aef001eef78c0f4"]
 	path = eb5e1aef001eef78c0f4
 	url = https://gist.github.com/damc-dev/eb5e1aef001eef78c0f4
+[submodule "SysToolsLib"]
+	path = SysToolsLib
+	url = https://github.com/JFLarvoire/SysToolsLib.git
